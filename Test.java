@@ -1,11 +1,10 @@
-package com.zensar.test;
 
 public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Hello Asif ");
+		System.out.println("Hello Asif World");
 	}
 
 }
